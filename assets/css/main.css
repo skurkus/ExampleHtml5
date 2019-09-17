@@ -202,6 +202,14 @@ input, select, textarea {
 			margin: 0 0 2rem 0;
 		}
 
+		h2.majorlong {
+			border-bottom: solid 1px #ffffff;
+			width: -moz-max-content;
+			width: -ms-max-content;
+			padding-bottom: 0.5rem;
+			margin: 0 0 2rem 0;
+		}
+
 		h1.minor, h2.minor, h3.minor, h4.minor, h5.minor, h6.minor {
 			margin: 0 0 0 0;
 		}
