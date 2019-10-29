@@ -735,6 +735,10 @@ input, select, textarea {
 			top: 0.25em;
 		}
 
+		.image.top {
+			top: 0.55em;
+		}
+
 		.image.fit {
 			display: block;
 			margin: 0 0 2rem 0;
